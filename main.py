@@ -5,11 +5,11 @@ from telegram.ext import CommandHandler
 from telegram.ext import Updater
 from telegram.utils.request import Request
 
-TOKEN = '1100082431:AAFkTA6OBO1pNWqdBShZWUCzj7o9ljfgkos'
+TOKEN = '??????'
 
 PROXY_URL = 'https://telegg.ru/orig/bot'
 
-MAIN_ADMIN_ID = 325363221
+MAIN_ADMIN_ID = ??????
 
 
 def do_echo(update: Update, context: CallbackContext):
